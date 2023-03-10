@@ -1,0 +1,5 @@
+﻿  Pokemon.cpp
+C:\Users\PC\source\repos\Tarea_003_Herencia\Tarea_003_Herencia\Pokemon.cpp(106,1): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Tarea_003_Herencia\Tarea_003_Herencia\Pokemon.cpp(180,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Tarea_003_Herencia\Tarea_003_Herencia\Pokemon.cpp(207,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Tarea_003_Herencia.vcxproj -> C:\Users\PC\source\repos\Tarea_003_Herencia\Debug\Tarea_003_Herencia.exe
